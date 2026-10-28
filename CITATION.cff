@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Shot-budget-fair benchmark of damped quantum natural gradient for variational quantum eigensolvers"
+type: software
+authors:
+  - family-names: Degala
+    given-names: Chenchupradeep
+version: 0.1.0
+date-released: 2026-10-28
+license: MIT
+repository-code: "https://github.com/pradeepdegalaroyal/shot-fair-damped-qng-vqe-benchmark"
+keywords:
+  - quantum natural gradient
+  - variational quantum eigensolver
+  - shot noise
+  - transverse-field Ising model

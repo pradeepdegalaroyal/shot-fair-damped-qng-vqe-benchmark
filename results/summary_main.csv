@@ -1,0 +1,6 @@
+method,n_seeds,rel_err_pct_mean_std,rel_err_pct_median,recovered_pct_mean_std,shots_to_5pct_error_median,runs_reaching_5pct_error,runs_reaching_3pct_error,iterations_mean,shots_used_mean,final_lambda_mean
+adam_ps,5,2.03 +- 0.10,2.013,31.13 +- 3.39,1105920.0,5/5,5/5,390.0,9584640,
+spsa,5,2.25 +- 0.17,2.217,23.56 +- 5.91,1140000.0,5/5,5/5,800.0,9600000,
+qng_std,5,3.44 +- 0.39,3.279,-16.79 +- 13.40,1715200.0,5/5,3/5,375.0,9600000,
+qng_damped,5,1.87 +- 0.07,1.842,36.29 +- 2.28,512000.0,5/5,5/5,375.0,9600000,
+qng_tr,5,2.38 +- 0.36,2.437,19.25 +- 12.32,496128.0,5/5,5/5,367.0,9583104,3.5703125

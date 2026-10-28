@@ -1,0 +1,7 @@
+{
+  "adam_ps": 0.01,
+  "spsa": 0.3,
+  "qng_std": 0.01,
+  "qng_damped": 0.01,
+  "qng_tr": 0.01
+}
